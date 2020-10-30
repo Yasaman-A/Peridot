@@ -13,12 +13,14 @@ S. Shah, Y. Amannejad, D. Krishnamurthy, and M. Wang. ["Quick Execution Time Pre
 
 ## Citation
 ```
-  @misc{shah2020,
-    author = {Sarah Shah, Yasaman Amannejad, Diwakar Krishnamurthy},
-    title = {Fast Deadline-aware Resource Allocation for Spark Applications},
-    year = {2020},
-    howpublished = {\url{https://github.com/Yasaman-A/Peridot}}
-  }
+@inproceedings{shah2019quick,
+  title={Quick Execution Time Predictions for Spark Applications},
+  author={Shah, Sarah and Amannejad, Yasaman and Krishnamurthy, Diwakar and Wang, Mea},
+  booktitle={2019 15th International Conference on Network and Service Management (CNSM)},
+  pages={1--9},
+  year={2019},
+  organization={IEEE}
+}
   ```
 
  ## License
